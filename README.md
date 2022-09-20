@@ -9,7 +9,7 @@ Simply, the application is a project that brings the results of the picture with
 
 # used technologies in this project 
 - ### MVVM Desing Pattern
-- ### Hint
+- ### Hilt
 - ### Retrofit
 - ### Room Database
 - ### Testing
